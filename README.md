@@ -19,6 +19,7 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 - [Jens](./Enzomaldini-dci.md)
 - [Mansour](./mansour.md)
+- [balta](./baltasargd.md)
 - [sabir](./Sudoka11.md)
 - [Soeren](./Soerenboettcher.md)
 - [Mohamad Mansor](mohamad-mansor.md)
