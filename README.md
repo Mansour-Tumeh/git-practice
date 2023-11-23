@@ -16,6 +16,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 ## List of files
 
-- [Jens](./Enzomaldini-dci)
+- [Jens](./Enzomaldini-dci.md)
 
 Good luck, have fun!
