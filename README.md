@@ -16,7 +16,17 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 ## List of files
 
+
+- [Jens](./Enzomaldini-dci.md)
 - [Mansour](./mansour.md)
 - [balta](./baltasargd.md)
+- [sabir](./Sudoka11.md)
+- [Soeren](./Soerenboettcher.md)
+- [Mohamad Mansor](mohamad-mansor.md)
+- [Juneau](./Juneau88.md)
+- [Anastasiia](./iamstasiia.md)
+
+
+
 
 Good luck, have fun!
