@@ -17,6 +17,7 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## List of files
 
 
+- [Joshua](./joshua.md)
 - [Jens](./Enzomaldini-dci.md)
 - [Mansour](./mansour.md)
 - [Fili](./filistudent.md)
@@ -26,8 +27,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 - [Mohamad Mansor](mohamad-mansor.md)
 - [Juneau](./Juneau88.md)
 - [Anastasiia](./iamstasiia.md)
-
-
 
 
 
