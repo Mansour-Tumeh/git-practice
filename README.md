@@ -17,6 +17,7 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 ## List of files
 
 
+- [Patrick](./patrick.md)
 - [Joshua](./joshua.md)
 - [Jens](./Enzomaldini-dci.md)
 - [Mansour](./mansour.md)
@@ -31,3 +32,4 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 
 
 Good luck, have fun!
+# CloneForFork
