@@ -21,7 +21,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 - [Joshua](./joshua.md)
 - [Jens](./Enzomaldini-dci.md)
 - [Mansour](./mansour.md)
-- [Soeren](./SoerenBoettcher.md)
 - [Fili](./filistudent.md)
 - [balta](./baltasargd.md)
 - [sabir](./Sudoka11.md)
@@ -29,7 +28,6 @@ Use only terminal commands for git (you can use VS Code for editing!) :^)
 - [Mohamad Mansor](mohamad-mansor.md)
 - [Juneau](./Juneau88.md)
 - [Anastasiia](./iamstasiia.md)
-
 
 
 
